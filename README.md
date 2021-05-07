@@ -1,2 +1,2 @@
 # bachelor_thesis
-Files used for bachelor thesis
+Notebook file for tag analyzes
